@@ -1,0 +1,31 @@
+!
+name: "Maroon"
+time: 1718809183
+author: "CausticWhiplash"
+@
+bubbleCorner: 12
+bubbleOutline: 1
+bubbleOutlineSize, parentTheme, wallpaperUsageId: 2
+imageCorner: 5
+#
+attachContact, attachFile, attachInlineBot, attachLocation, attachPhoto, avatar_content, badgeMutedText, bubble_chatBackground, bubbleIn_background, bubbleOut_background, bubbleOut_file, chatBackground, circleButtonChat, circleButtonNegativeIcon, circleButtonNewChannelIcon, circleButtonNewChatIcon, circleButtonNewGroupIcon, circleButtonNewSecretIcon, circleButtonOverlay, circleButtonPositiveIcon, circleButtonRegularIcon, circleButtonTheme, filling, fillingPositive, headerBackground, headerBarCallMuted, headerButton, headerLightBackground, inlineContentActive, notification, notificationPlayer, overlayFilling, passcode, playerCoverPlaceholder, togglerNegativeContent, unreadText: #000
+attachText, avatarArchive, avatarArchivePinned, avatarBlue, avatarBlue_big, avatarCyan, avatarCyan_big, avatarGreen, avatarGreen_big, avatarOrange, avatarOrange_big, avatarPink, avatarPink_big, avatarRed, avatarRed_big, avatarReplies, avatarReplies_big, avatarSavedMessages, avatarSavedMessages_big, avatarViolet, avatarViolet_big, avatarYellow, avatarYellow_big, badgeMuted, bubble_buttonText, bubble_buttonText_noWallpaper, bubbleIn_outline, bubbleOut_chatVerticalLine, bubbleOut_waveformActive, chatKeyboardButton, chatListMute, circleButtonChatIcon, circleButtonNewChannel, circleButtonNewChat, circleButtonNewGroup, circleButtonNewSecret, circleButtonOverlayIcon, circleButtonRegular, circleButtonThemeIcon, controlActive, controlInactive, drawerText, file, fileAttach, fileGreen, fileRed, fileYellow, fillingNegative, fillingPositiveContent, headerBarCallActive, headerBarCallIncoming, headerButtonIcon, headerIcon, headerTabActive, headerTabActiveText, headerText, icon, iconActive, inlineIcon, inlineOutline, inlineText, inputActive, introSectionActive, messageAuthor, messageVerticalLine, nameBlue, nameCyan, nameGreen, nameOrange, namePink, nameRed, nameViolet, nameYellow, passcodeIcon, passcodeText, playerButton, playerButtonActive, playerCoverIcon, progress, promo, seekDone, sliderActive, textLink, textNeutral, textSearchQueryHighlight, togglerActive, unread, waveformActive: #FF0059
+avatarInactive, avatarInactive_big, background_icon, chatListIcon, headerTabInactiveText, introSection, togglerInactive: #5B5B5B
+background_text: #717171
+background_textLight: #ABABAB
+badgeFailed, bubbleOut_chatNegativeFilling, circleButtonNegative, iconNegative, inputNegative, messageNegativeLine, textNegative, togglerNegative: #F00
+bubble_button_noWallpaper, bubble_buttonRipple_noWallpaper: #00000020
+bubble_date_noWallpaper, bubble_mediaReply_noWallpaper, bubble_overlay, bubble_unread_noWallpaper: #00000040
+bubbleIn_textLink, bubbleOut_messageAuthorPsa, bubbleOut_textLink, bubbleOut_ticksRead, chatListVerify, chatSendButton, checkActive, circleButtonPositive, iconPositive, inputPositive, messageAuthorPsa, notificationSecure, online, textSecure, ticksRead, togglerPositive: #0F0
+bubbleOut_messageAuthor, bubbleOut_outline, bubbleOut_progress, iv_pageAuthor, messageSelection: #FFF
+headerRemoveBackground, togglerNegativeBackground: #870000
+headerRemoveBackgroundHighlight: #FF0003
+nameInactive: #676767
+seekEmpty: #2D2D2D
+seekReady: #FFFFFF40
+sliderInactive: #494949
+textLight: #A7A7A7
+textPlaceholder: #777
+togglerActiveBackground: #970035
+togglerInactiveBackground: #343434
+togglerPositiveBackground: #0C6B00
